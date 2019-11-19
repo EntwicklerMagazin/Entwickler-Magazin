@@ -4,6 +4,8 @@
 
 Weitere Informationen & Bestellung im <a href="https://kiosk.entwickler.de/entwickler-magazin/">Entwickler.Kiosk</a>
 
+Für Fragen und Anmerkungen können Sie die Redaktion unter redaktion@entwickler.de erreichen.
+
 Das Urheberrecht der bereitgestellten Code-Downloads liegt bei den jeweiligen Autoren. Die Erstveröffentlichung ist in der jeweiligen Ausgabe des Entwickler Magazins erfolgt.
 
 <h3>Impressum</h3>

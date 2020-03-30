@@ -18,7 +18,7 @@ Phone: +49 (0)69 630 089 0
 Fax: +49 (0)69 630089 89
 Email: info@sandsmedia.com
 
-Vertretungsberechtigter Geschäftsführer: Dr. Pouya Kamali
+Vertretungsberechtigter Geschäftsführer: Dr. Pouya Kamali-Loibl
 
 Registergericht: Amtsgericht Frankfurt am Main
 Registernummer: HRB 40312
